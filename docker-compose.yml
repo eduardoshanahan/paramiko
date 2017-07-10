@@ -1,0 +1,9 @@
+version: "2"
+
+services:
+
+  shell:
+    image: eduardoshanahan/paramiko:latest
+    container_name: eduardoshanahan_paramiko
+    entrypoint:
+      - /bin/sh
