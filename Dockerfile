@@ -1,6 +1,6 @@
 FROM eduardoshanahan/python:2.7.13.r1
 
-MAINTAINER Eduardo Shanahan <contact@eduardoshanahan.com>
+LABEL maintainer "Eduardo Shanahan <contact@eduardoshanahan.com>"
 
 RUN apk --update \
     add --no-cache --virtual .install_dependencies_paramiko \
