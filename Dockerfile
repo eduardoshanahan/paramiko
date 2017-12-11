@@ -1,4 +1,4 @@
-FROM eduardoshanahan/python:latest
+FROM eduardoshanahan/python:2.7.13.r1
 
 MAINTAINER Eduardo Shanahan <contact@eduardoshanahan.com>
 
@@ -15,4 +15,4 @@ RUN apk --update \
 &&  pip install paramiko \
 &&  apk del .install_dependencies_paramiko
 
-CMD ["/bin/sh"]
+ENTRYPOINT ["/bin/sh"]
