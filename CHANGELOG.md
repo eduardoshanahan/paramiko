@@ -5,4 +5,5 @@
 * Removed: bumpversion details
 * Added: CHANGELOG.md
 * Added: version.json
-* Updated: Readme
+* Updated: Readme instructions
+* Updated: Python 2.7.13.r1
