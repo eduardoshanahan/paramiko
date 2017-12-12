@@ -1,4 +1,4 @@
-FROM eduardoshanahan/python:2.7.13.r1.1
+FROM eduardoshanahan/python:2.7.13.r1.2
 
 LABEL maintainer "Eduardo Shanahan <contact@eduardoshanahan.com>"
 

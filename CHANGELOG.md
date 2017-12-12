@@ -1,6 +1,6 @@
 # Changelog
 
-##  [2.4.0.1]- 2017-12-12
+##  [2.4.0.2]- 2017-12-12
 
 * Changed: Take Alpine updates from image
 
