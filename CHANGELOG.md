@@ -1,5 +1,9 @@
 # Changelog
 
+## 2017-12-14
+
+* Changed: added a tag creation script
+
 ##  [2.4.0.2]- 2017-12-12
 
 * Changed: Take Alpine updates from image
