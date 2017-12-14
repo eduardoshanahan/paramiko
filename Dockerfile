@@ -1,8 +1,8 @@
-FROM eduardoshanahan/python:2.7.13.r1.2
+FROM eduardoshanahan/python:2.7.13.3
 
 LABEL maintainer "Eduardo Shanahan <contact@eduardoshanahan.com>"
 
-RUN apk add --no-cache --virtual .install_dependencies_paramiko \
+RUN apk add --virtual .install_dependencies_paramiko \
     gcc \
     musl-dev \
     python-dev \
