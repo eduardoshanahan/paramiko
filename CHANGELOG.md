@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.4.0.4] - 2018-01-01
+
+* Changed: New Alpine version
+* New: Added zlib and openssl libraries
+* New: Script to build a local Docker image
+
 ## [2.4.0.3] - 2017-12-14
 
 * Changed: Updated Python base image to 2.7.13.3
